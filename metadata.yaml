@@ -1,0 +1,26 @@
+_repo: A-Poetical-Cook-Book_25631
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moss, Maria J.
+    gutenberg_agent_id: '31473'
+    url: http://www.gutenberg.org/2009/agents/31473
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2008-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- !lcsh 'Poetry'
+title: A Poetical Cook-Book
+url: http://www.gutenberg.org/ebooks/25631
